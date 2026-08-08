@@ -4,61 +4,61 @@
 
 | Name                 | Description |
 |----------------------|-------------|
-| aPS3e                |             |
-| ARMSX1               |             |
-| ARMSX2               |             |
-| ARMSX3               |             |
-| Azahar               |             |
-| Bachata-S4           |             |
-| Cemu                 |             |
-| Citra MMJ            |             |
-| Citron Neo           |             |
-| Dolphin              |             |
-| Dolphin (Dev Build)  |             |
-| Dolphin-MMJR2-VBI    |             |
-| Duckstation          |             |
-| Eden (Nightly)       |             |
-| Eden                 |             |
-| EmuCoreX             |             |
-| Flycast              |             |
-| HakuX                |             |
-| melonDS (Nightly)    |             |
-| melonDS              |             |
-| NetherSX2-Patch      |             |
-| NetherSX2-Turnip     |             |
-| Pico8 Android        |             |
-| Play!                |             |
-| PPSSPP               |             |
-| RetroArch            |             |
-| RPCSX (ouroboros420) |             |
-| RPCSX                |             |
-| ScummVM              |             |
-| Swiff                |             |
-| WatermelonDS         |             |
-| X-OG Mobile          |             |
-| X1 BOX               |             |
-| X360 Mobile          |             |
-| Xendroid             |             |
-| XenraOG              |             |
+| aPS3e                | PS3         |
+| ARMSX1               | PS1         |
+| ARMSX2               | PS2         |
+| ARMSX3               | PS3         |
+| Azahar               | 3DS         |
+| Bachata-S4           | PS4         |
+| Cemu                 | Wii U       |
+| Citra MMJ            | 3DS         |
+| Citron Neo           | Switch      |
+| Dolphin              | GameCube/Wii |
+| Dolphin (Dev Build)  | GameCube/Wii |
+| Dolphin-MMJR2-VBI    | GameCube/Wii |
+| Duckstation          | PS1         |
+| Eden (Nightly)       | Switch      |
+| Eden                 | Switch      |
+| EmuCoreX             | PS2         |
+| Flycast              | Dreamcast   |
+| HakuX                | Xbox        |
+| melonDS (Nightly)    | DS/DSi      |
+| melonDS              | DS/DSi      |
+| NetherSX2-Patch      | PS2         |
+| NetherSX2-Turnip     | PS2         |
+| Pico8 Android        | PICO-8      |
+| Play!                | PS2         |
+| PPSSPP               | PSP         |
+| RetroArch            | Multi-System  |
+| RPCSX (ouroboros420) | PS3         |
+| RPCSX                | PS3         |
+| ScummVM              | ScummVM     |
+| Swiff                | Flash       |
+| WatermelonDS         | DS          |
+| X-OG Mobile          | Xbox        |
+| X1 BOX               | Xbox        |
+| X360 Mobile          | Xbox 360    |
+| Xendroid             | Xbox 360    |
+| XenraOG              | Xbox        |
 
 ## PC Emulation
 
 | Name             | Description |
 |------------------|-------------|
-| GameHub Lite     |             |
-| GameNative       |             |
-| Starboard        |             |
-| Winlator Cmod    |             |
-| Winlator-Ludashi |             |
-| Winlator         |             |
+| GameHub Lite     | Modified version of GameHub            |
+| GameNative       | Run PC games in your Steam, Epic and GOG libraries            |
+| Starboard        | PortMaster on Android (Unofficial)            |
+| Winlator Cmod    | Custom Winlator Fork            |
+| Winlator-Ludashi | Custom Winlator Fork            |
+| Winlator         | Run Windows Applications via Wine and Box86/Box64            |
 
 ## Launchers
 
 | Name             | Description |
 |------------------|-------------|
-| Argosy Launcher  |             |
-| Cannoli          |             |
-| Cocoon FE        |             |
+| Argosy Launcher  | Native RomM Client            |
+| Cannoli          | Opinionated retro gaming setup for Android            |
+| Cocoon FE        | Customizable Android frontend for retro gaming            |
 | Console Launcher |             |
 | Daijisho         |             |
 | eOr              |             |
