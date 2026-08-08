@@ -142,27 +142,27 @@
 
 | Name                | Description |
 |---------------------|-------------|
-| App Manager         |             |
-| Bifrost             |             |
-| chdboy              |             |
-| CHDroid             |             |
-| Cluster Tune        |             |
-| Dhizuku             |             |
-| EmuReady Lite       |             |
-| ES-DE Android Apps  |             |
-| Komi Store          |             |
-| Localsend           |             |
-| milou               |             |
-| Mimir               |             |
-| MiXplorer           |             |
-| Obtainium           |             |
-| OdinTools           |             |
-| Pixel Guide Android |             |
-| Pulse               |             |
-| RAOfflineProxy      |             |
-| romgi               |             |
-| romnix              |             |
-| Shizuku             |             |
-| Syncthing-Fork      |             |
-| Tailscale           |             |
-| Unipatcher          |             |
+| App Manager         | A full-featured package manager and viewer for Android            |
+| Bifrost             | Custom LED controller            |
+| chdboy              | A chdman port for Android            |
+| CHDroid             | Compress your favourite ROMs into CHD, directly on Android            |
+| Cluster Tune        | An Android utility for tuning CPU frequency limits on supported handheld devices           |
+| Dhizuku             | A tool for sharing DeviceOwner permissions with other applications            |
+| EmuReady Lite       | Browse handheld and PC compatibility reports, follow trending reports and emulators, and keep your watchlist synced while you’re away from your PC.            |
+| ES-DE Android Apps  | Tool to import android apps into the ES-DE launcher            |
+| Komi Store          | A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo            |
+| Localsend           | An open-source cross-platform alternative to AirDrop            |
+| milou               | ROM Scraper and Downloader for Android            |
+| Mimir               | Help organize ROM libraries safely on-device, with an initial focus on multi-disc cleanup and bulk ROM preparation            |
+| MiXplorer           | A fast, smooth, beautiful, reliable and full-featured Android file manager            |
+| Obtainium           | Get Android app updates straight from the source            |
+| OdinTools           | Collection of utilities for the AYN Odin 2            |
+| Pixel Guide Android | Browse, save, import, and read game guides on your Android device            |
+| Pulse               | A no-root performance tuner for handheld gaming devices — give your handheld a brain.            |
+| RAOfflineProxy      | A local proxy that lets you earn casual RetroAchievements without an internet connection            |
+| romgi               | Easy-to-use ROM downloader for Android devices            |
+| romnix              | Move your roms from Android phone to handhelds like muOS & Rocknix            |
+| Shizuku             | Using system APIs directly with adb/root privileges from normal apps            |
+| Syncthing-Fork      | A wrapper of Syncthing for Android            |
+| Tailscale           | Private WireGuard® networks made easy            |
+| Unipatcher          | A game console ROM patcher for Android            |
