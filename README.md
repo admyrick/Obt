@@ -132,37 +132,37 @@
 
 | Name                      | Description |
 |---------------------------|-------------|
-| Adreno Tools Drivers      | Android compatible Adreno drivers            |
-| ES-DE Custom Systems      | A set of xml enabling custom systems            |
-| Mr. Purple Turnip Drivers | Android compatible Adreno drivers            |
-| Obtainium Emulation Pack  | Curated collection of Android emulators and gaming utilities for Obtainium            |
-| Obtainium Recomp Decomp   | An Obtainium pack for native Android decompilations and recompilations of classic video games.            |
+| [Adreno Tools Drivers](https://github.com/StevenMXZ/Adreno-Tools-Drivers)      | Android compatible Adreno drivers            |
+| [ES-DE Custom Systems](https://github.com/GlazedBelmont/es-de-android-custom-systems)      | A set of xml enabling custom systems            |
+| [Mr. Purple Turnip Drivers](https://github.com/MrPurple666/purple-turnip/releases) | Android compatible Adreno drivers            |
+| [Obtainium Emulation Pack](https://github.com/RJNY/Obtainium-Emulation-Pack)  | Curated collection of Android emulators and gaming utilities for Obtainium            |
+| [Obtainium Recomp Decomp](https://codeberg.org/BBoi34/Obtainium-Recomp-Decomp)   | An Obtainium pack for native Android decompilations and recompilations of classic video games.            |
 
 ## Utilities
 
 | Name                | Description |
 |---------------------|-------------|
-| App Manager         | A full-featured package manager and viewer for Android            |
-| Bifrost             | Custom LED controller            |
-| chdboy              | A chdman port for Android            |
-| CHDroid             | Compress your favourite ROMs into CHD, directly on Android            |
-| Cluster Tune        | An Android utility for tuning CPU frequency limits on supported handheld devices           |
-| Dhizuku             | A tool for sharing DeviceOwner permissions with other applications            |
-| EmuReady Lite       | Browse handheld and PC compatibility reports, follow trending reports and emulators, and keep your watchlist synced while you’re away from your PC.            |
-| ES-DE Android Apps  | Tool to import android apps into the ES-DE launcher            |
-| Komi Store          | A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo            |
-| Localsend           | An open-source cross-platform alternative to AirDrop            |
-| milou               | ROM Scraper and Downloader for Android            |
-| Mimir               | Help organize ROM libraries safely on-device, with an initial focus on multi-disc cleanup and bulk ROM preparation            |
-| MiXplorer           | A fast, smooth, beautiful, reliable and full-featured Android file manager            |
-| Obtainium           | Get Android app updates straight from the source            |
-| OdinTools           | Collection of utilities for the AYN Odin 2            |
-| Pixel Guide Android | Browse, save, import, and read game guides on your Android device            |
-| Pulse               | A no-root performance tuner for handheld gaming devices — give your handheld a brain.            |
-| RAOfflineProxy      | A local proxy that lets you earn casual RetroAchievements without an internet connection            |
-| romgi               | Easy-to-use ROM downloader for Android devices            |
-| romnix              | Move your roms from Android phone to handhelds like muOS & Rocknix            |
-| Shizuku             | Using system APIs directly with adb/root privileges from normal apps            |
-| Syncthing-Fork      | A wrapper of Syncthing for Android            |
-| Tailscale           | Private WireGuard® networks made easy            |
-| Unipatcher          | A game console ROM patcher for Android            |
+| [App Manager](https://github.com/muntashirakon/appmanager)         | A full-featured package manager and viewer for Android            |
+| [Bifrost](https://github.com/Pollux-MoonBench/Bifrost)             | Custom LED controller            |
+| [chdboy](https://github.com/izzy2lost/CHDBOY)              | A chdman port for Android            |
+| [CHDroid](https://github.com/Ottavio97/CHDroid)             | Compress your favourite ROMs into CHD, directly on Android            |
+| [Cluster Tune](https://github.com/AurelioB/cluster-tune)        | An Android utility for tuning CPU frequency limits on supported handheld devices           |
+| [Dhizuku](https://github.com/iamr0s/Dhizuku)             | A tool for sharing DeviceOwner permissions with other applications            |
+| [EmuReady Lite](https://github.com/Producdevity/EmuReadyAppReleases)       | Browse handheld and PC compatibility reports, follow trending reports and emulators, and keep your watchlist synced while you’re away from your PC.            |
+| [ES-DE Android Apps](https://github.com/BinaryQuantumSoul/esde_android_apps)  | Tool to import android apps into the ES-DE launcher            |
+| [Komi Store](https://github.com/kurikomi-labs/komi-store)          | A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo            |
+| [Localsend](https://github.com/localsend/localsend)           | An open-source cross-platform alternative to AirDrop            |
+| [milou](https://github.com/santiifm/milou)               | ROM Scraper and Downloader for Android            |
+| [Mimir](https://github.com/ItsRetroPup/Mimir)               | Help organize ROM libraries safely on-device, with an initial focus on multi-disc cleanup and bulk ROM preparation            |
+| [MiXplorer](https://github.com/driftywinds/mixplorer-releases)           | A fast, smooth, beautiful, reliable and full-featured Android file manager            |
+| [Obtainium](https://github.com/ImranR98/Obtainium)           | Get Android app updates straight from the source            |
+| [OdinTools](https://github.com/langerhans/OdinTools)           | Collection of utilities for the AYN Odin 2            |
+| [Pixel Guide Android](https://github.com/rexmont/Pixel-Guide-Android) | Browse, save, import, and read game guides on your Android device            |
+| [Pulse](https://github.com/keiretrogaming/pulse)               | A no-root performance tuner for handheld gaming devices — give your handheld a brain.            |
+| [RAOfflineProxy](https://github.com/misantronic/RAOfflineProxy)      | A local proxy that lets you earn casual RetroAchievements without an internet connection            |
+| [romgi](https://github.com/caprado/romgi)               | Easy-to-use ROM downloader for Android devices            |
+| [romnix](https://github.com/amosjerbi/romnix)              | Move your roms from Android phone to handhelds like muOS & Rocknix            |
+| [Shizuku](https://github.com/RikkaApps/Shizuku)             | Using system APIs directly with adb/root privileges from normal apps            |
+| [Syncthing-Fork](https://github.com/researchxxl/syncthing-android)      | A wrapper of Syncthing for Android            |
+| [Tailscale](https://github.com/tailscale/tailscale-android)           | Private WireGuard® networks made easy            |
+| [Unipatcher](https://github.com/btimofeev/UniPatcher)          | A game console ROM patcher for Android            |
