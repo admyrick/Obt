@@ -59,16 +59,16 @@
 | Argosy Launcher  | Native RomM Client            |
 | Cannoli          | Opinionated retro gaming setup for Android            |
 | Cocoon FE        | Customizable Android frontend for retro gaming            |
-| Console Launcher |             |
-| Daijisho         |             |
-| eOr              |             |
-| iiSU             |             |
-| mShop            |             |
-| NeoStation       |             |
-| Pegasus          |             |
-| r-shop           |             |
-| RetroHrai        |             |
-| Zneko Launcher   |             |
+| Console Launcher | Make your phone look and feel like a handheld game console            |
+| Daijisho         | Retro launcher that lets you manage your retro games libraries            |
+| eOr              | A fast, gorgeous game launcher for Android handhelds and phones            |
+| iiSU             | The visuals-first emulation frontend            |
+| mShop            | A console eShop-styled Android client for RomM            |
+| NeoStation       | The Multiplatform Emulation Frontend            |
+| Pegasus          | A graphical frontend for browsing your game library and launching all kinds of emulators from the same place            |
+| r-shop           | Controller-first retro game manager for Android            |
+| RetroHrai        | A beautiful, unified frontend launcher for Android that brings all your games together in one place            |
+| Zneko Launcher   | A simpler way to manage, transfer, and play games across Android handhelds            |
 
 ## Decomps / Recomps
 
@@ -112,31 +112,31 @@
 
 | Name           | Description |
 |----------------|-------------|
-| Image Toolbox  |             |
-| Wall You       |             |
-| Capy Reader    |             |
-| Home Assistant |             |
+| Image Toolbox  | A versatile image editing tool designed for efficient photo manipulation            |
+| Wall You       | Privacy focused wallpaper app built with MD3            |
+| Capy Reader    | A smallish Android RSS reader            |
+| Home Assistant | Home Assistant Companion for Android            |
 
 ## Streaming
 
 | Name       | Description |
 |------------|-------------|
-| Artemis    |             |
-| Moonlight  |             |
-| Nova       |             |
-| PSPlay     |             |
-| XBXPlay    |             |
-| XStreaming |             |
+| Artemis    | An open source client for Apollo/Sunshine.            |
+| Moonlight  | Moonlight for Android is an open source client for NVIDIA GameStream and Sunshine.            |
+| Nova       | Handheld-first GameStream client for Android            |
+| PXPlay     | A third-party PlayStation Remote Play client             |
+| XBXPlay    | A third-party Xbox Remote Play client            |
+| XStreaming | Open source Xbox streaming (remote play) client            |
 
 ## Track-only
 
 | Name                      | Description |
 |---------------------------|-------------|
-| Adreno Tools Drivers      |             |
-| ES-DE Custom Systems      |             |
-| Mr. Purple Turnip Drivers |             |
-| Obtainium Emulation Pack  |             |
-| Obtainium Recomp Decomp   |             |
+| Adreno Tools Drivers      | Android compatible Adreno drivers            |
+| ES-DE Custom Systems      | A set of xml enabling custom systems            |
+| Mr. Purple Turnip Drivers | Android compatible Adreno drivers            |
+| Obtainium Emulation Pack  | Curated collection of Android emulators and gaming utilities for Obtainium            |
+| Obtainium Recomp Decomp   | An Obtainium pack for native Android decompilations and recompilations of classic video games.            |
 
 ## Utilities
 
