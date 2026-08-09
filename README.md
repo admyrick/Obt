@@ -180,8 +180,8 @@
 | [RPCSX-Clanker](https://github.com/rfandango/rpcsx)                   |             |
 | [Zelda: Majora's Mask (2Ship-Jameriquiah)](https://github.com/Jameriquiah/2ship2harkinian/)         |             |
 | [Fold Craft Launcher](https://github.com/FCL-Team/FoldCraftLauncher)                    |             |
-|                     |             |
-|                     |             |
+| [xeo](https://github.com/chuckstation/xeo)                    | Xbox 360            |
+| [XoDos Rebirth](https://github.com/xodiosx/XoDos2)                    | Linux desktop environment that runs seamlessly on Android devices            |
 |                     |             |
 
 
