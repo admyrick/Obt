@@ -4,42 +4,42 @@
 
 | Name                 | Description |
 |----------------------|-------------|
-| aPS3e                | PS3         |
-| ARMSX1               | PS1         |
-| ARMSX2               | PS2         |
-| ARMSX3               | PS3         |
-| Azahar               | 3DS         |
-| Bachata-S4           | PS4         |
-| Cemu                 | Wii U       |
-| Citra MMJ            | 3DS         |
-| Citron Neo           | Switch      |
-| Dolphin              | GameCube/Wii |
-| Dolphin (Dev Build)  | GameCube/Wii |
-| Dolphin-MMJR2-VBI    | GameCube/Wii |
-| Duckstation          | PS1         |
-| Eden (Nightly)       | Switch      |
-| Eden                 | Switch      |
-| EmuCoreX             | PS2         |
-| Flycast              | Dreamcast   |
-| HakuX                | Xbox        |
-| melonDS (Nightly)    | DS/DSi      |
-| melonDS              | DS/DSi      |
-| NetherSX2-Patch      | PS2         |
-| NetherSX2-Turnip     | PS2         |
-| Pico8 Android        | PICO-8      |
-| Play!                | PS2         |
-| PPSSPP               | PSP         |
-| RetroArch            | Multi-System  |
+| [aPS3e](https://github.com/aenu1/aps3e)                | PS3         |
+| [ARMSX1](https://github.com/ARMSX2/ARMSX1)               | PS1         |
+| [ARMSX2](https://github.com/ARMSX2/ARMSX2)               | PS2         |
+| [ARMSX3](https://github.com/ARMSX2/ARMSX3)               | PS3         |
+| [Azahar](https://github.com/azahar-emu/azahar)               | 3DS         |
+| [Bachata-S4](https://github.com/JICA98/Bachata-S4)           | PS4         |
+| [Cemu](https://github.com/SSimco/Cemu)                 | Wii U       |
+| [Citra MMJ](https://github.com/weihuoya/citra/releases)            | 3DS         |
+| [Citron Neo](https://github.com/citron-neo/CI/releases/)           | Switch      |
+| [Dolphin](https://dolphin-emu.org/)              | GameCube/Wii |
+| [Dolphin (Dev Build)](https://dolphin-emu.org/)  | GameCube/Wii |
+| [Dolphin-MMJR2-VBI](https://github.com/Medard22/Dolphin-MMJR2-VBI)    | GameCube/Wii |
+| [Duckstation](https://duckstation-mirror.rmacias.workers.dev/)          | PS1         |
+| [Eden (Nightly)](https://eden-emu.dev/)       | Switch      |
+| [Eden](https://eden-emu.dev/)                 | Switch      |
+| [EmuCoreX](https://github.com/sashkinbro/EmuCoreX)             | PS2         |
+| [Flycast](https://github.com/flyinghead/flycast)              | Dreamcast   |
+| [HakuX](https://github.com/rfandango/hakuX)                | Xbox        |
+| [melonDS (Nightly)](https://github.com/rafaelvcaetano/melonDS-android)    | DS/DSi      |
+| [melonDS](https://github.com/rafaelvcaetano/melonDS-android)              | DS/DSi      |
+| [NetherSX2-Patch](https://github.com/Trixarian/NetherSX2-patch)      | PS2         |
+| [NetherSX2-Turnip](https://github.com/nckstwrt/NetherSX2-Turnip)     | PS2         |
+| [Pico8 Android](https://github.com/Macs75/pico8-android)        | PICO-8      |
+| [Play!](https://purei.org/)                | PS2         |
+| [PPSSPP](https://www.ppsspp.org/download)               | PSP         |
+| [RetroArch](https://www.retroarch.com/)            | Multi-System  |
 | RPCSX (ouroboros420) | PS3         |
-| RPCSX                | PS3         |
-| ScummVM              | ScummVM     |
-| Swiff                | Flash       |
-| WatermelonDS         | DS          |
-| X-OG Mobile          | Xbox        |
-| X1 BOX               | Xbox        |
-| X360 Mobile          | Xbox 360    |
-| Xendroid             | Xbox 360    |
-| XenraOG              | Xbox        |
+| [RPCSX](https://github.com/RPCSX/rpcsx-ui-android)                | PS3         |
+| [ScummVM](https://www.scummvm.org/)              | ScummVM     |
+| [Swiff](https://github.com/NaviVani-dev/Swiff)                | Flash       |
+| [WatermelonDS](https://github.com/SapphireRhodonite/WatermelonDS)         | DS          |
+| [X-OG Mobile](https://github.com/Ashnar2602/X-OG_Mobile)          | Xbox        |
+| [X1 BOX](https://github.com/izzy2lost/xemu)               | Xbox        |
+| [X360 Mobile](https://github.com/Ashnar2602/X360-Mobile---OFFICIAL)          | Xbox 360    |
+| [Xendroid](https://github.com/rfandango/XenDroid)             | Xbox 360    |
+| [XenraOG](https://github.com/dev-Ali2008/xenraOG)              | Xbox        |
 
 ## PC Emulation
 
