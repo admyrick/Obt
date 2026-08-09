@@ -30,7 +30,7 @@
 | [Play!](https://purei.org/)                | PS2         |
 | [PPSSPP](https://www.ppsspp.org/download)               | PSP         |
 | [RetroArch](https://www.retroarch.com/)            | Multi-System  |
-| RPCSX (ouroboros420) | PS3         |
+| [RPCSX (ouroboros420)](https://github.com/ouroboros420/rpcsx-ui-android) | PS3         |
 | [RPCSX](https://github.com/RPCSX/rpcsx-ui-android)                | PS3         |
 | [ScummVM](https://www.scummvm.org/)              | ScummVM     |
 | [Swiff](https://github.com/NaviVani-dev/Swiff)                | Flash       |
@@ -45,88 +45,88 @@
 
 | Name             | Description |
 |------------------|-------------|
-| GameHub Lite     | Modified version of GameHub            |
-| GameNative       | Run PC games in your Steam, Epic and GOG libraries            |
-| Starboard        | PortMaster on Android (Unofficial)            |
-| Winlator Cmod    | Custom Winlator Fork            |
-| Winlator-Ludashi | Custom Winlator Fork            |
-| Winlator         | Run Windows Applications via Wine and Box86/Box64            |
+| [GameHub Lite](https://github.com/Producdevity/gamehub-lite)     | Modified version of GameHub            |
+| [GameNative](https://github.com/utkarshdalal/GameNative)       | Run PC games in your Steam, Epic and GOG libraries            |
+| [Starboard](https://get-starboard.app/)        | PortMaster on Android (Unofficial)            |
+| [Winlator Cmod](https://github.com/coffincolors/winlator)    | Custom Winlator Fork            |
+| [Winlator-Ludashi](https://github.com/StevenMXZ/Winlator-Ludashi) | Custom Winlator Fork            |
+| [Winlator](https://github.com/brunodev85/winlator)         | Run Windows Applications via Wine and Box86/Box64            |
 
 ## Launchers
 
 | Name             | Description |
 |------------------|-------------|
-| Argosy Launcher  | Native RomM Client            |
-| Cannoli          | Opinionated retro gaming setup for Android            |
-| Cocoon FE        | Customizable Android frontend for retro gaming            |
-| Console Launcher | Make your phone look and feel like a handheld game console            |
-| Daijisho         | Retro launcher that lets you manage your retro games libraries            |
-| eOr              | A fast, gorgeous game launcher for Android handhelds and phones            |
-| iiSU             | The visuals-first emulation frontend            |
-| mShop            | A console eShop-styled Android client for RomM            |
-| NeoStation       | The Multiplatform Emulation Frontend            |
-| Pegasus          | A graphical frontend for browsing your game library and launching all kinds of emulators from the same place            |
-| r-shop           | Controller-first retro game manager for Android            |
-| RetroHrai        | A beautiful, unified frontend launcher for Android that brings all your games together in one place            |
-| Zneko Launcher   | A simpler way to manage, transfer, and play games across Android handhelds            |
+| [Argosy Launcher](https://github.com/rommapp/argosy-launcher)  | Native RomM Client            |
+| [Cannoli](https://github.com/CannoliHQ/cannoli)          | Opinionated retro gaming setup for Android            |
+| [Cocoon FE](https://github.com/inssekt/CocoonFE)        | Customizable Android frontend for retro gaming            |
+| [Console Launcher](https://github.com/likeich/console-launcher) | Make your phone look and feel like a handheld game console            |
+| [Daijisho](https://github.com/TapiocaFox/Daijishou)         | Retro launcher that lets you manage your retro games libraries            |
+| [eOr](https://github.com/keweis2/eOr)              | A fast, gorgeous game launcher for Android handhelds and phones            |
+| [iiSU](https://iisu.network/)             | The visuals-first emulation frontend            |
+| [mShop](https://github.com/zaldivarn/mShop)            | A console eShop-styled Android client for RomM            |
+| [NeoStation](https://neostation.dev/)       | The Multiplatform Emulation Frontend            |
+| [Pegasus](https://github.com/mmatyas/pegasus-frontend)          | A graphical frontend for browsing your game library and launching all kinds of emulators from the same place            |
+| [r-shop](https://github.com/AverageConsumer/R-Shop)           | Controller-first retro game manager for Android            |
+| [RetroHrai](https://github.com/retrohrai/Releases)        | A beautiful, unified frontend launcher for Android that brings all your games together in one place            |
+| [Zneko Launcher](https://github.com/zneko-org/zneko-launcher)   | A simpler way to manage, transfer, and play games across Android handhelds            |
 
 ## Decomps / Recomps
 
 | Name                                 | Description |
 |--------------------------------------|-------------|
-| Banjo Kazooie Recomp                 |             |
-| Crash Team Racing                    |             |
-| Goemon 64 Recomp                     |             |
-| GoldenEye 007 (XBLA) Recomp          |             |
-| Harvest Moon 64 Recomp               |             |
-| Lighthouse                           |             |
-| Kanto Companion Mobile               |             |
-| Mario Kart 64 (SpaghettiKart)        |             |
-| Perfect Dark Recomp                  |             |
-| Pokemon Gen1Recomp (Main)            |             |
-| DramaticShapeVoxelMod (Main)         |             |
-| Pokemon Gen1Recomp (Kanto)           |             |
-| Kanto Gear                           |             |
-| DramaticShapeVoxelMod (Kanto)        |             |
-| Sonic Unleashed Recomp               |             |
-| Star Fox 64 (Starship)               |             |
-| Super Mario 64 (Ghostship)           |             |
-| Super Smash Bros. (BattleShip)       |             |
-| Super Mario Bros. Remastered         |             |
-| Super Metroid Android                |             |
-| Zelda: A Link to the Past            |             |
-| Zelda: Majora's Mask (2Ship)         |             |
-| Zelda: Ocarina of Time (Shipwright)  |             |
-| Zelda: The Minish Cap                |             |
-| Zelda: Twilight Princess (Dusklight) |             |
+| [Banjo Kazooie Recomp](https://github.com/AurelioB/BanjoRecomp-Android)                 |             |
+| [Crash Team Racing](https://github.com/Simon358/ctr-native-android)                    |             |
+| [Goemon 64 Recomp](https://github.com/ogdanimal/Goemon64Recomp-Android)                     |             |
+| [GoldenEye 007 (XBLA) Recomp](https://github.com/jeffory/GoldenEye-Recomp)          |             |
+| [Harvest Moon 64 Recomp](https://github.com/igawa6/HarvestMoon64Recomp)               |             |
+| [Lighthouse](https://github.com/izzy2lost/Lighthouse)                           |             |
+| [Kanto Companion Mobile](https://github.com/BountyHunterKanden/Kanto-Companion-Mobile)               |             |
+| [Mario Kart 64 (SpaghettiKart)](https://github.com/izzy2lost/SpaghettiKart)        |             |
+| [Perfect Dark Recomp](https://github.com/izzy2lost/perfect_dark)                  |             |
+| [Pokemon Gen1Recomp (Main)](https://github.com/bryanthaboi/gen1recomp)            |             |
+| [DramaticShapeVoxelMod (Main)](https://github.com/DramaticShape/DramaticShapeVoxelMod)         |             |
+| [Pokemon Gen1Recomp (Kanto)](https://github.com/AverageConsumer/gen1recomp)           |             |
+| [Kanto Gear](https://github.com/AverageConsumer/kanto-gear)                           |             |
+| [DramaticShapeVoxelMod (Kanto)](https://github.com/AverageConsumer/DramaticShapeVoxelMod)        |             |
+| [Sonic Unleashed Recomp](https://github.com/SansNope/UnleashedRecomp-Android)               |             |
+| [Star Fox 64 (Starship)](https://github.com/izzy2lost/Starship)               |             |
+| [Super Mario 64 (Ghostship)](https://github.com/izzy2lost/Ghostship)           |             |
+| [Super Smash Bros. (BattleShip)](https://github.com/JRickey/BattleShip)       |             |
+| [Super Mario Bros. Remastered](https://github.com/mircowuffwuff/super-mario-bros.-remastered-android)         |             |
+| [Super Metroid Android](https://github.com/Raekwon1603/super_metroid-android)                |             |
+| [Zelda: A Link to the Past](https://github.com/samyost1/zelda3-android)            |             |
+| [Zelda: Majora's Mask (2Ship)](https://github.com/linkzenic/2ship2harkinian-Android)         |             |
+| [Zelda: Ocarina of Time (Shipwright)](https://github.com/Waterdish/Shipwright-Android)  |             |
+| [Zelda: The Minish Cap](https://github.com/samyost1/tmc-android)                |             |
+| [Zelda: Twilight Princess (Dusklight)](https://github.com/TwilitRealm/dusklight) |             |
 
 ## PC Ports
 
 | Name                               | Description |
 |------------------------------------|-------------|
-| Diablo 1 (DevilutionX)             |             |
-| Elder Scrolls 3 Morrowind (OpenMW) |             |
-| Simpsons Hit and Run               |             |
+| [Diablo 1 (DevilutionX)](https://github.com/diasurgical/DevilutionX)             |             |
+| [Elder Scrolls 3 Morrowind (OpenMW)](https://github.com/xyzz/openmw-android) |             |
+| [Simpsons Hit and Run](https://github.com/Carlox33/The-Simpsons-Hit-and-Run-Android)               |             |
 
 ## Phone
 
 | Name           | Description |
 |----------------|-------------|
-| Image Toolbox  | A versatile image editing tool designed for efficient photo manipulation            |
-| Wall You       | Privacy focused wallpaper app built with MD3            |
-| Capy Reader    | A smallish Android RSS reader            |
-| Home Assistant | Home Assistant Companion for Android            |
+| [Image Toolbox](https://github.com/T8RIN/ImageToolbox)  | A versatile image editing tool designed for efficient photo manipulation            |
+| [Wall You](https://github.com/you-apps/WallYou)       | Privacy focused wallpaper app built with MD3            |
+| [Capy Reader](https://github.com/jocmp/capyreader)    | A smallish Android RSS reader            |
+| [Home Assistant](https://github.com/home-assistant/android) | Home Assistant Companion for Android            |
 
 ## Streaming
 
 | Name       | Description |
 |------------|-------------|
-| Artemis    | An open source client for Apollo/Sunshine.            |
-| Moonlight  | Moonlight for Android is an open source client for NVIDIA GameStream and Sunshine.            |
-| Nova       | Handheld-first GameStream client for Android            |
-| PXPlay     | A third-party PlayStation Remote Play client             |
-| XBXPlay    | A third-party Xbox Remote Play client            |
-| XStreaming | Open source Xbox streaming (remote play) client            |
+| [Artemis](https://github.com/ClassicOldSong/moonlight-android)    | An open source client for Apollo/Sunshine.            |
+| [Moonlight](https://github.com/moonlight-stream/moonlight-android)  | Moonlight for Android is an open source client for NVIDIA GameStream and Sunshine.            |
+| [Nova](https://github.com/papi-ux/nova)       | Handheld-first GameStream client for Android            |
+| [PXPlay](https://streamingdv.com/)     | A third-party PlayStation Remote Play client             |
+| [XBXPlay](https://github.com/streamingdv/XBXPlay-Application-Hosting)    | A third-party Xbox Remote Play client            |
+| [XStreaming](https://github.com/Geocld/XStreaming) | Open source Xbox streaming (remote play) client            |
 
 ## Track-only
 
@@ -166,3 +166,34 @@
 | [Syncthing-Fork](https://github.com/researchxxl/syncthing-android)      | A wrapper of Syncthing for Android            |
 | [Tailscale](https://github.com/tailscale/tailscale-android)           | Private WireGuard® networks made easy            |
 | [Unipatcher](https://github.com/btimofeev/UniPatcher)          | A game console ROM patcher for Android            |
+
+# To Add
+
+| Name                | Description |
+|---------------------|-------------|
+| [GameHub Lite (pre-release)](https://github.com/Producdevity/gamehub-lite)                     |             |
+| [RetroArch Nightly (AArch64)](https://www.retroarch.com/)                    |             |
+| [NetherSX2-Classic](https://github.com/Trixarian/NetherSX2-classic)                    |             |
+| [O2P Tweaks](https://github.com/FeralAI/o2ptweaks.app)                    |             |
+| [Lemuroid](https://github.com/Swordfish90/Lemuroid)                    |             |
+| [RPCSX-Clanker](https://github.com/rfandango/rpcsx)                   |             |
+|                     |             |
+|                     |             |
+|                     |             |
+|                     |             |
+|                     |             |
+
+
+## Dual-Screen
+
+| Name                | Description |
+|---------------------|-------------|
+| [EmuInk](https://github.com/EmuLnk/emulnk)              |             |
+| [ES-DE Companion](https://github.com/RobZombie9043/es-de-companion)    |             |
+| [Jarngreipr](https://github.com/BrianJr03/Jarngreipr)          |             |
+| [Mjolnir](https://github.com/blacksheepmvp/mjolnir)             |             |
+| [ThorTune](https://github.com/androosio/thortune)            |             |
+| [Cemu (Dual-Screen)](https://github.com/sapphirerhodonite/cemu)  |             |
+| [Zelda: Twilight Princess (Dusklight)](https://github.com/igawa6/dusklight)          |             |
+| [Morrowind DS (OpenMW-DS)](https://github.com/Josh-Daniels/OpenMW-DS)          |             |
+
