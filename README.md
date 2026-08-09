@@ -178,8 +178,8 @@
 | [O2P Tweaks](https://github.com/FeralAI/o2ptweaks.app)                    |             |
 | [Lemuroid](https://github.com/Swordfish90/Lemuroid)                    |             |
 | [RPCSX-Clanker](https://github.com/rfandango/rpcsx)                   |             |
-|                     |             |
-|                     |             |
+| [Zelda: Majora's Mask (2Ship-Jameriquiah)](https://github.com/Jameriquiah/2ship2harkinian/)         |             |
+| [Fold Craft Launcher](https://github.com/FCL-Team/FoldCraftLauncher)                    |             |
 |                     |             |
 |                     |             |
 |                     |             |
