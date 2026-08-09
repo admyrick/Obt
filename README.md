@@ -22,6 +22,7 @@
 | [EmuCoreX](https://github.com/sashkinbro/EmuCoreX)             | PS2         |
 | [Flycast](https://github.com/flyinghead/flycast)              | Dreamcast   |
 | [HakuX](https://github.com/rfandango/hakuX)                | Xbox        |
+| [Kytyps4](https://github.com/dev-Ali2008/KytyPS4-Android/)                | PS4        |
 | [melonDS (Nightly)](https://github.com/rafaelvcaetano/melonDS-android)    | DS/DSi      |
 | [melonDS](https://github.com/rafaelvcaetano/melonDS-android)              | DS/DSi      |
 | [NetherSX2-Patch](https://github.com/Trixarian/NetherSX2-patch)      | PS2         |
