@@ -19,20 +19,25 @@
 | [Duckstation](https://duckstation-mirror.rmacias.workers.dev/)          | PS1         |
 | [Eden (Nightly)](https://eden-emu.dev/)       | Switch      |
 | [Eden](https://eden-emu.dev/)                 | Switch      |
+| [EmuCoreV](https://github.com/sashkinbro/EmuCoreV)             | PS Vita         |
 | [EmuCoreX](https://github.com/sashkinbro/EmuCoreX)             | PS2         |
 | [Flycast](https://github.com/flyinghead/flycast)              | Dreamcast   |
 | [HakuX](https://github.com/rfandango/hakuX)                | Xbox        |
 | [Kytyps4](https://github.com/dev-Ali2008/KytyPS4-Android/)                | PS4        |
+| [Lemuroid](https://github.com/Swordfish90/Lemuroid)                    |             |
 | [melonDS (Nightly)](https://github.com/rafaelvcaetano/melonDS-android)    | DS/DSi      |
 | [melonDS](https://github.com/rafaelvcaetano/melonDS-android)              | DS/DSi      |
+| [NetherSX2-Classic](https://github.com/Trixarian/NetherSX2-classic)                    |             |
 | [NetherSX2-Patch](https://github.com/Trixarian/NetherSX2-patch)      | PS2         |
 | [NetherSX2-Turnip](https://github.com/nckstwrt/NetherSX2-Turnip)     | PS2         |
 | [Pico8 Android](https://github.com/Macs75/pico8-android)        | PICO-8      |
 | [Play!](https://purei.org/)                | PS2         |
 | [PPSSPP](https://www.ppsspp.org/download)               | PSP         |
 | [RetroArch](https://www.retroarch.com/)            | Multi-System  |
-| [RPCSX (ouroboros420)](https://github.com/ouroboros420/rpcsx-ui-android) | PS3         |
+| [RetroArch Nightly (AArch64)](https://www.retroarch.com/)                    |             |
 | [RPCSX](https://github.com/RPCSX/rpcsx-ui-android)                | PS3         |
+| [RPCSX (ouroboros420)](https://github.com/ouroboros420/rpcsx-ui-android) | PS3         |
+| [RPCSX-Clanker](https://github.com/rfandango/rpcsx)                   |             |
 | [ScummVM](https://www.scummvm.org/)              | ScummVM     |
 | [Swiff](https://github.com/NaviVani-dev/Swiff)                | Flash       |
 | [WatermelonDS](https://github.com/SapphireRhodonite/WatermelonDS)         | DS          |
@@ -41,12 +46,15 @@
 | [X360 Mobile](https://github.com/Ashnar2602/X360-Mobile---OFFICIAL)          | Xbox 360    |
 | [Xendroid](https://github.com/rfandango/XenDroid)             | Xbox 360    |
 | [XenraOG](https://github.com/dev-Ali2008/xenraOG)              | Xbox        |
+| [xeo](https://github.com/chuckstation/xeo)                    | Xbox 360            |
+| [XoDos Rebirth](https://github.com/xodiosx/XoDos2)                    | Linux desktop environment that runs seamlessly on Android devices            |
 
 ## PC Emulation
 
 | Name             | Description |
 |------------------|-------------|
 | [GameHub Lite](https://github.com/Producdevity/gamehub-lite)     | Modified version of GameHub            |
+| [GameHub Lite (pre-release)](https://github.com/Producdevity/gamehub-lite)                     |             |
 | [GameNative](https://github.com/utkarshdalal/GameNative)       | Run PC games in your Steam, Epic and GOG libraries            |
 | [Starboard](https://get-starboard.app/)        | PortMaster on Android (Unofficial)            |
 | [Winlator Cmod](https://github.com/coffincolors/winlator)    | Custom Winlator Fork            |
@@ -97,9 +105,11 @@
 | [Super Metroid Android](https://github.com/Raekwon1603/super_metroid-android)                |             |
 | [Zelda: A Link to the Past](https://github.com/samyost1/zelda3-android)            |             |
 | [Zelda: Majora's Mask (2Ship)](https://github.com/linkzenic/2ship2harkinian-Android)         |             |
+| [Zelda: Majora's Mask (2Ship-Jameriquiah)](https://github.com/Jameriquiah/2ship2harkinian/)         |             |
 | [Zelda: Ocarina of Time (Shipwright)](https://github.com/Waterdish/Shipwright-Android)  |             |
 | [Zelda: The Minish Cap](https://github.com/samyost1/tmc-android)                |             |
 | [Zelda: Twilight Princess (Dusklight)](https://github.com/TwilitRealm/dusklight) |             |
+
 
 ## PC Ports
 
@@ -107,6 +117,7 @@
 |------------------------------------|-------------|
 | [Diablo 1 (DevilutionX)](https://github.com/diasurgical/DevilutionX)             |             |
 | [Elder Scrolls 3 Morrowind (OpenMW)](https://github.com/xyzz/openmw-android) |             |
+| [Fold Craft Launcher](https://github.com/FCL-Team/FoldCraftLauncher)                    |             |
 | [Simpsons Hit and Run](https://github.com/Carlox33/The-Simpsons-Hit-and-Run-Android)               |             |
 
 ## Phone
@@ -156,6 +167,7 @@
 | [milou](https://github.com/santiifm/milou)               | ROM Scraper and Downloader for Android            |
 | [Mimir](https://github.com/ItsRetroPup/Mimir)               | Help organize ROM libraries safely on-device, with an initial focus on multi-disc cleanup and bulk ROM preparation            |
 | [MiXplorer](https://github.com/driftywinds/mixplorer-releases)           | A fast, smooth, beautiful, reliable and full-featured Android file manager            |
+| [O2P Tweaks](https://github.com/FeralAI/o2ptweaks.app)                    |             |
 | [Obtainium](https://github.com/ImranR98/Obtainium)           | Get Android app updates straight from the source            |
 | [OdinTools](https://github.com/langerhans/OdinTools)           | Collection of utilities for the AYN Odin 2            |
 | [Pixel Guide Android](https://github.com/rexmont/Pixel-Guide-Android) | Browse, save, import, and read game guides on your Android device            |
@@ -167,23 +179,6 @@
 | [Syncthing-Fork](https://github.com/researchxxl/syncthing-android)      | A wrapper of Syncthing for Android            |
 | [Tailscale](https://github.com/tailscale/tailscale-android)           | Private WireGuard® networks made easy            |
 | [Unipatcher](https://github.com/btimofeev/UniPatcher)          | A game console ROM patcher for Android            |
-
-# To Add
-
-| Name                | Description |
-|---------------------|-------------|
-| [GameHub Lite (pre-release)](https://github.com/Producdevity/gamehub-lite)                     |             |
-| [RetroArch Nightly (AArch64)](https://www.retroarch.com/)                    |             |
-| [NetherSX2-Classic](https://github.com/Trixarian/NetherSX2-classic)                    |             |
-| [O2P Tweaks](https://github.com/FeralAI/o2ptweaks.app)                    |             |
-| [Lemuroid](https://github.com/Swordfish90/Lemuroid)                    |             |
-| [RPCSX-Clanker](https://github.com/rfandango/rpcsx)                   |             |
-| [Zelda: Majora's Mask (2Ship-Jameriquiah)](https://github.com/Jameriquiah/2ship2harkinian/)         |             |
-| [Fold Craft Launcher](https://github.com/FCL-Team/FoldCraftLauncher)                    |             |
-| [xeo](https://github.com/chuckstation/xeo)                    | Xbox 360            |
-| [XoDos Rebirth](https://github.com/xodiosx/XoDos2)                    | Linux desktop environment that runs seamlessly on Android devices            |
-|                     |             |
-
 
 ## Dual-Screen
 
@@ -197,4 +192,14 @@
 | [Cemu (Dual-Screen)](https://github.com/sapphirerhodonite/cemu)  |             |
 | [Zelda: Twilight Princess (Dusklight)](https://github.com/igawa6/dusklight)          |             |
 | [Morrowind DS (OpenMW-DS)](https://github.com/Josh-Daniels/OpenMW-DS)          |             |
+| [Balatro Dual Screen](https://github.com/rosbean/balatro-dualscreen)          |             |
 
+# To Add
+
+| Name                | Description |
+|---------------------|-------------|
+|                     |             |
+|                     |             |
+|                     |             |
+|                     |             |
+|                     |             |
