@@ -84,6 +84,7 @@
 | Name                                 | Description |
 |--------------------------------------|-------------|
 | [Banjo Kazooie Recomp](https://github.com/AurelioB/BanjoRecomp-Android)                 |             |
+| [Crash Bandicoot Decomp](https://github.com/Matteo842/CrashBandicoot-Launcher/)                 |             |
 | [Crash Team Racing](https://github.com/Simon358/ctr-native-android)                    |             |
 | [Goemon 64 Recomp](https://github.com/ogdanimal/Goemon64Recomp-Android)                     |             |
 | [GoldenEye 007 (XBLA) Recomp](https://github.com/jeffory/GoldenEye-Recomp)          |             |
